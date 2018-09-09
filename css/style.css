@@ -1,0 +1,5 @@
+#map { height : 600px; width: 50%;}
+.legend {  line-height : 1.5em}
+.legend i { width : 5em; float : left }
+.map-label { background : yellow }
+iframe{ height : 600px; width: 50%;}
